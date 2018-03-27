@@ -13,9 +13,8 @@ header h1 {
   color: #FFFFFF;
 }
 
-header img {
-  display: flex;
-  justify-content: flex-end;
+.pic {
+  float: right;
 }
 
 sidebar {
