@@ -3,7 +3,8 @@ body {
 }
 
 header {
-  padding 20 px, 60 px;
+  margin-top: 60 px;
+  margin-botom: 20 px;
   background-color: #595959;
 }
 
