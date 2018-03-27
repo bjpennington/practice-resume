@@ -1,1 +1,18 @@
+body {
+  font family: 'Century Gothic', Helvetica, sans-serif;
+}
 
+header {
+  padding 20 px, 0;
+  background-color: rgb(89,89,89);
+}
+
+header h1 {
+  font family: 'Century Gothic', Helvetica, sans-serif;
+  color: #FFFFFF;
+}
+
+header img {
+  display: flex;
+  justify-content: flex-end;
+}
