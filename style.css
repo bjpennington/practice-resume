@@ -16,3 +16,7 @@ header img {
   display: flex;
   justify-content: flex-end;
 }
+
+sidebar {
+  background-color: #7F7F7F
+}
