@@ -40,6 +40,6 @@ main {
 
 #date-2 {
   display: inline-block;
-  width: 80%;
+  font-size: 0.75rem;
   text-align: right;
 }
