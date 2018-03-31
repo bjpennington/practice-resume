@@ -39,7 +39,6 @@ main {
 }
 
 #date-2 {
-  display: inline-block;
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   text-align: right;
 }
