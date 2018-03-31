@@ -47,49 +47,54 @@ main {
 }
 
 a {
-  color: #ABC6CE;
+  color: #93C2CB;
 }
 
 #date-1 {
   text-align: right;
-  display: inline-block;
+  display: inline;
   font-size: 0.9rem;
   text-indent: 100px;
 }
 
 #date-2 {
   text-align: right;
-  display: inline-block;
+  display: inline;
   font-size: 0.9rem;
   text-indent: 100px;
 }
 
 #date-3 {
-  text-align: right;
+ text-align: right;
+  display: inline;
   font-size: 0.9rem;
   text-indent: 100px;
 }
 
 #date-4 {
-  text-align: right;
+ text-align: right;
+  display: inline;
   font-size: 0.9rem;
   text-indent: 100px;
 }
 
 #date-5 {
   text-align: right;
+  display: inline;
   font-size: 0.9rem;
   text-indent: 100px;
 }
 
 #date-6 {
   text-align: right;
+  display: inline;
   font-size: 0.9rem;
   text-indent: 100px;
 }
 
 #date-7 {
   text-align: right;
+  display: inline;
   font-size: 0.9rem;
   text-indent: 100px;
 }
