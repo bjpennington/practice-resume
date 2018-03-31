@@ -52,7 +52,7 @@ a {
 
 #date-1 {
   text-align: right;
-  display: inline;
+  display: inline-block;
   font-size: 0.9rem;
   text-indent: 100px;
 }
