@@ -47,19 +47,25 @@ main {
 }
 
 a {
-  color: #B4EEF9;
+  color: #9DB5BB;
+}
+
+ul {
+  text-indent: 10px;
 }
 
 #date-1 {
   text-align: right;
   display: inline-block;
   font-size: 0.9rem;
+  text-indent: 100px;
 }
 
 #date-2 {
   text-align: right;
   display: inline-block;
   font-size: 0.9rem;
+  text-indent: 100px;
 }
 
 #date-3 {
