@@ -40,5 +40,6 @@ main {
 
 #date-2 {
   display: inline-block;
+  width: 80%;
   text-align: right;
 }
