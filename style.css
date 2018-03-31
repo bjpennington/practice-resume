@@ -37,3 +37,7 @@ sidebar {
 main {
   margin-top: 30px;
 }
+
+#date-2 {
+  float: right;
+}
