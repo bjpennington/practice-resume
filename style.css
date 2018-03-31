@@ -50,10 +50,6 @@ a {
   color: #9DB5BB;
 }
 
-ul {
-  text-indent: 10px;
-}
-
 #date-1 {
   text-align: right;
   display: inline-block;
@@ -71,25 +67,30 @@ ul {
 #date-3 {
   text-align: right;
   font-size: 0.9rem;
+    text-indent: 100px;
 }
 
 #date-4 {
   text-align: right;
   font-size: 0.9rem;
+    text-indent: 100px;
 }
 
 #date-5 {
   text-align: right;
   font-size: 0.9rem;
+    text-indent: 100px;
 }
 
 #date-6 {
   text-align: right;
   font-size: 0.9rem;
+    text-indent: 100px;
 }
 
 #date-7 {
   text-align: right;
   font-size: 0.9rem;
+    text-indent: 100px;
 }
 
