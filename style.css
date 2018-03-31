@@ -13,11 +13,21 @@ header h1 {
   color: #FFFFFF;
 }
 
-figure {
+header figure {
   float: right;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 
 sidebar {
   background-color: #7F7F7F;
   color: #FFFFFF;
+}
+
+#contact-info {
+  margin-top: 20px;
+}
+
+#ed-and-honors {
+  margin-top: 100px;
 }
