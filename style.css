@@ -51,44 +51,30 @@ a {
 }
 
 #date-1 {
-  display: inline-block;
-  text-align: right;
   font-size: 0.9rem;
 }
 
 #date-2 {
-  display: inline-block;
   font-size: 0.9rem;
-  text-indent: 50%;
 }
 
 #date-3 {
-  display: inline-block;
   font-size: 0.9rem;
-  text-indent: 50%;
 }
 
 #date-4 {
-  display: inline-block;
-  font-size: 0.9rem;
-  text-indent: 50%;
+ font-size: 0.9rem;
 }
 
 #date-5 {
-  display: inline-block;
   font-size: 0.9rem;
-  text-indent: 50%;
 }
 
 #date-6 {
-  display: inline-block;
   font-size: 0.9rem;
-  text-indent: 50%;
 }
 
 #date-7 {
-  display: inline-block;
-  font-size: 0.9rem;
-  text-indent: 50%;
+ font-size: 0.9rem;
 }
 
