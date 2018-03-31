@@ -51,51 +51,44 @@ a {
 }
 
 #date-1 {
-  text-align: right;
   display: inline-block;
+  text-align: right;
   font-size: 0.9rem;
-  text-indent: 100px;
 }
 
 #date-2 {
-  text-align: right;
-  display: inline;
+  display: inline-block;
   font-size: 0.9rem;
-  text-indent: 100px;
+  text-indent: 50%;
 }
 
 #date-3 {
- text-align: right;
-  display: inline;
+  display: inline-block;
   font-size: 0.9rem;
-  text-indent: 100px;
+  text-indent: 50%;
 }
 
 #date-4 {
- text-align: right;
-  display: inline;
+  display: inline-block;
   font-size: 0.9rem;
-  text-indent: 100px;
+  text-indent: 50%;
 }
 
 #date-5 {
-  text-align: right;
-  display: inline;
+  display: inline-block;
   font-size: 0.9rem;
-  text-indent: 100px;
+  text-indent: 50%;
 }
 
 #date-6 {
-  text-align: right;
-  display: inline;
+  display: inline-block;
   font-size: 0.9rem;
-  text-indent: 100px;
+  text-indent: 50%;
 }
 
 #date-7 {
-  text-align: right;
-  display: inline;
+  display: inline-block;
   font-size: 0.9rem;
-  text-indent: 100px;
+  text-indent: 50%;
 }
 
