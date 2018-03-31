@@ -48,11 +48,13 @@ main {
 
 #date-1 {
   text-align: right;
+  display: inline-block;
   font-size: 0.9rem;
 }
 
 #date-2 {
   text-align: right;
+  display: inline-block;
   font-size: 0.9rem;
 }
 
